@@ -1,0 +1,12 @@
+{
+  "name": "garizlo/yii2-file-system",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "Apache License, Version 2.0",
+  "authors": [
+    {
+      "name": "Igor Matveev",
+      "email": "matveev.igor@gmail.com"
+    }
+  ]
+}
